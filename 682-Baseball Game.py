@@ -1,4 +1,4 @@
-class Solution:
+yclass Solution:
     def calPoints(self, operations: List[str]) -> int:
         stack = []
         for i in operations:
